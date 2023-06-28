@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fotius.example.todo.FileTodoListStorageIntegrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-08T08:43:59" hostname="DESKTOP-BQAKI4A" time="0.021">
+  <properties/>
+  <testcase name="elementCanBeSaved()" classname="fotius.example.todo.FileTodoListStorageIntegrationTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
